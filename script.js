@@ -1,6 +1,5 @@
 // calculates the square of whatever number you add into the input box
 let number = 0
-let sentence = 'hello, this is the number 3.'
 
 document.getElementById('button').addEventListener('click', multiplication)
 
